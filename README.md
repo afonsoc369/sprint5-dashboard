@@ -54,3 +54,12 @@ Depois da publicação, acrescente aqui o URL público do serviço:
 
 ## Sobre os dados — importante
 O ficheiro `vehicles_us.csv` incluído nesta versão é um **conjunto de dados demonstrativo sintético**, criado para permitir executar e testar o dashboard. Não é o CSV oficial fornecido pela TripleTen. Para a entrega final, substitua-o pelo ficheiro oficial `vehicles_us.csv` disponibilizado na plataforma do curso, mantendo o mesmo nome e colocando-o na raiz do projeto. O dashboard espera, entre outras, as colunas `price` e `odometer`.
+
+## Aplicação publicada
+
+Aceder ao dashboard:
+https://sprint5-dashboard-4h6a.onrender.com
+
+## Repositório GitHub
+
+https://github.com/afonsoc369/sprint5-dashboard
